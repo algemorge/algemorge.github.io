@@ -20,7 +20,7 @@ const metaConfig = {
   title: "Algemorge",
   description: `Algemorge's Blog`,
   author: "Algemorge",
-  siteUrl: "https://gatsby-starter-apple.netlify.app",
+  siteUrl: "https://algemorge-blog.netlify.app/",
   lang: "en",
   utterances: "",
   links: {

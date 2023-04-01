@@ -27,3 +27,5 @@ src/gatsby-types.d.ts
 
 # Mac files
 .DS_Store
+
+package-lock.json/
